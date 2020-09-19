@@ -1,5 +1,5 @@
-[] Syntax - Way to write a login in a certain language
-[] Comments
+[*] Syntax - Way to write a login in a certain language
+[*] Comments
 [] Variables
 [] Data Types
 [] Numbers
