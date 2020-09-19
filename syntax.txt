@@ -1,0 +1,20 @@
+[] Syntax - Way to write a login in a certain language
+[] Comments
+[] Variables
+[] Data Types
+[] Numbers
+[] Casting
+[] Strings
+[] Booleans
+[] operators
+
+[] Conditional Statements
+[] Logical Statements
+[] Loops
+
+[#] Collections Framework: [DS Python]
+[] Arrays
+[] Lists
+[] Tuples
+[] Sets
+[] Dictionaries
