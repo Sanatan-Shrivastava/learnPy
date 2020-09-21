@@ -26,15 +26,49 @@ A variable is created the moment you first assign a value to it.
 # In Python, a = 4 -> declaration + initialization + memory asignment
 # Q: is declaration available in Python? : No;
 
+# [*] Python variables do not need explicit declaration to reserve memory space.
 
-# Code Katas - 3
-# Q: Write a code to find the remiander of a where a = 14, and b = 2. Also print the values of a and b:
+# name = "sanatan"
+# age = 21
+# work = True
 
-a = 14 
-b = 2
-remainder = a % b
-print(remainder)
-print(a)
-print(b)
+# print("My name is " + name + " and my age is " + str(age) + " yes, I work.")
+# print(work)
+# True/False
+
+
+
+# Multiple Assignment:
+# a = 1
+# b = 1
+# c = 1
+# a = b = c = 2
+# a,b,c = 3,5,True
+# print(a)
+# print(b)
+# print(c)
+
+
+# 5 types of Python Data Type []
+#  List   -> ADT
+#  Tuples -> ADT
+#  Numbers -> int, float, double, byte, long.
+#  Strings
+#  Dictionaries -> ADT
+
+# ADT -> Abstract Data Type -> Abstraction is known as hiding the details. 
+
+
+# string = "PYTHON"
+# string[6] = "S"
+# print(string)
+# list = ["Sanatan", "Universe", "Universal Sanity"]  # List of strings
+
+
+
+# append can only be supported in list (dynamic data types) -> Those who dont have fixed size.
+
+
+
 
 

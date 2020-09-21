@@ -34,9 +34,22 @@
 # python syntax.py
 
 # code katas - 2
-x = 15
-if x % 2 == 1:
-  print("x is a odd number")
-  if x % 7 == 0:
-    print("x is divisible by 7")
+# x = 15
+# if x % 2 == 1:
+#   print("x is a odd number")
+#   if x % 7 == 0:
+#     print("x is divisible by 7")
 
+
+
+
+# how to take input: 
+# variable = (data-type(input("Enter the number")))
+
+# for ex:
+#input("") -> function[Method] to take an input
+x = int(input("Please enter the number: "))
+print("The number you entered is: " + str(x))
+
+y = str(input("Please enter the string: "))
+print("The string you entered is: " + y)
