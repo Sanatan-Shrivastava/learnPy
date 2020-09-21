@@ -55,7 +55,7 @@ print(string_c.endswith('A'))
 # syntax: <string_name>.find(string)
 print(string_c.find('S'))
 
-string_d = "This is a string"
+string_d = "This is a name"
 list_string = string_d.split(' ')
 print(list_string)
 
