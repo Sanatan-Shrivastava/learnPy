@@ -71,6 +71,6 @@ print(string_numeric.isnumeric())
 
 # to find if the given string is alphabetic or not:
 string_alpha = "dsddreredede"
-
+string_a
 
 # to find if the given string is aplhanumeric or not:
