@@ -51,5 +51,5 @@
 x = int(input("Please enter the number: "))
 print("The number you entered is: " + str(x))
 
-y = str(input("Please enter the string: "))
-print("The string you entered is: " + y)
+#y = str(input("Please enter the string: "))
+#print("The string you entered is: " + y)
