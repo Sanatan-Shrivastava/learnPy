@@ -64,6 +64,7 @@ numeric -> '1','2','3'
 aplhabetic -> 'o','b','c'
 alphanumeric -> "s2f24cda4214"
 """
+
 # to find if the given string is numeric or not:
 string_numeric = "3233232"
 print(str.isnumeric(string_numeric))
