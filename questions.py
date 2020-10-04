@@ -4,3 +4,5 @@
 # Write a code to take cp and sp as input and calculate gain percent if sp is higher, and loss if cp is higher
 # Write a code to print simple interest (take all the necessary quantities as input)
 
+# by tomorrow 8 PM
+
